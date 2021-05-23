@@ -13,7 +13,7 @@ If the origins aren't specified, the related operation (redirect or Okta API acc
 
 ## Trusted Origins API operations
 
-### Create Trusted Origin
+### Create Trusted Origin.
 
 
 <ApiOperation method="post" url="/api/v1/trustedOrigins" />
